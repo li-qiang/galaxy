@@ -14,6 +14,14 @@ a -> b : say hello
 @enduml
 ```
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 
 it like [[java]]
 
